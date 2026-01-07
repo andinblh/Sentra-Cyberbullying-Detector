@@ -1,6 +1,6 @@
 #  Sentra: Cyberbullying Detector
 
-**Sentra** adalah aplikasi deteksi cyberbullying berbasis **Natural Language Processing (NLP)** yang dirancang untuk mendeteksi komentar bernuansa **bullying, toxic, insult, body shaming, dan hate speech**, khususnya pada **Bahasa Indonesia**.
+**Sentra** adalah aplikasi deteksi cyberbullying berbasis **Natural Language Processing (NLP)** yang dirancang untuk mendeteksi komentar bernuansa **bullying, toxic, insult, body shaming, dan hate speech**.
 
 Aplikasi ini menggabungkan pendekatan **Rule-Based System** dan **Machine Learning (Detoxify Multilingual)** untuk menghasilkan deteksi yang lebih akurat, termasuk untuk **sindiran dan sarkasme**.
 
