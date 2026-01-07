@@ -22,7 +22,7 @@ Aplikasi ini menggabungkan pendekatan **Rule-Based System** dan **Machine Learni
 User Input
    │
    ▼
-Rule-Based Engine (Bahasa Indonesia)
+Rule-Based Engine 
    │   (jika terdeteksi)
    ├──▶ Hasil Final
    │
