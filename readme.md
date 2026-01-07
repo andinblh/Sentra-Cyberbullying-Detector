@@ -18,7 +18,6 @@ Aplikasi ini menggabungkan pendekatan **Rule-Based System** dan **Machine Learni
 ---
 
 ##  Arsitektur Sistem
-
 ```text
 User Input
    │
@@ -34,7 +33,8 @@ Auto Translation (ID → EN)
 Detoxify Multilingual Model
    │
    ▼
-Hasil Deteksi + Confidence````
+Hasil Deteksi + Confidence
+```
 
 ---
 
